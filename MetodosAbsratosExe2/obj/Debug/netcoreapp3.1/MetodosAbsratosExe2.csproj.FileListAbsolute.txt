@@ -1,0 +1,13 @@
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\bin\Debug\netcoreapp3.1\MetodosAbsratosExe2.exe
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\bin\Debug\netcoreapp3.1\MetodosAbsratosExe2.deps.json
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\bin\Debug\netcoreapp3.1\MetodosAbsratosExe2.runtimeconfig.json
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\bin\Debug\netcoreapp3.1\MetodosAbsratosExe2.runtimeconfig.dev.json
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\bin\Debug\netcoreapp3.1\MetodosAbsratosExe2.dll
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\bin\Debug\netcoreapp3.1\MetodosAbsratosExe2.pdb
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\obj\Debug\netcoreapp3.1\MetodosAbsratosExe2.csprojAssemblyReference.cache
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\obj\Debug\netcoreapp3.1\MetodosAbsratosExe2.AssemblyInfoInputs.cache
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\obj\Debug\netcoreapp3.1\MetodosAbsratosExe2.AssemblyInfo.cs
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\obj\Debug\netcoreapp3.1\MetodosAbsratosExe2.csproj.CoreCompileInputs.cache
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\obj\Debug\netcoreapp3.1\MetodosAbsratosExe2.dll
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\obj\Debug\netcoreapp3.1\MetodosAbsratosExe2.pdb
+C:\Users\Arlesson Menezes\source\repos\MetodosAbsratosExe2\MetodosAbsratosExe2\obj\Debug\netcoreapp3.1\MetodosAbsratosExe2.genruntimeconfig.cache
